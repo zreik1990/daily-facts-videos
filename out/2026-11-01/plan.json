@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-01",
+  "items": [
+    {
+      "script_id": "edu-001-sky-blue",
+      "category": "education",
+      "publish_at": "2026-11-01T09:00:00",
+      "timezone": "Asia/Riyadh",
+      "title": "Why Is the Sky Blue and Not Purple?",
+      "caption": "Why is the sky blue... and not purple?\n\n1. Sunlight looks white, but it is really every color of the rainbow mixed together.\n2. When sunlight hits our atmosphere, it bumps into tiny gas molecules of nitrogen and oxygen.\n3. Those molecules scatter short wavelengths, like blue and violet, much more than red.\n4. This is called Rayleigh scattering, and it sends blue light bouncing all across the sky.\n5. Violet scatters even more than blue, so why isn't the sky purple?\n6. The Sun gives off less violet light, and our eyes are much more sensitive to blue.\n7. At sunset, light travels through far more air, so most blue scatters away before reaching you.\n8. That leaves the reds and oranges, which is why sunsets glow warm.\n\nWhich fact surprised you most? Tell us in the comments, and follow for 3 new videos every day.\n\n#whyistheskyblue #rayleighscattering #scienceexplained #learnsomething #didyouknow",
+      "youtube_tags": [
+        "why is the sky blue",
+        "rayleigh scattering",
+        "science explained",
+        "did you know",
+        "facts",
+        "learn something new",
+        "interesting facts"
+      ],
+      "youtube_category": "EDUCATION",
+      "video_url": "https://cdn.jsdelivr.net/gh/zreik1990/daily-facts-videos@e408097d290e7eb230b37893bd243cf9d3356487/2026-11-01_1_edu-001-sky-blue.mp4",
+      "local_file": "/home/claude/ScenicAutopilot/out/2026-11-01/2026-11-01_1_edu-001-sky-blue.mp4",
+      "seconds": 88.0
+    },
+    {
+      "script_id": "hea-001-sleep",
+      "category": "health",
+      "publish_at": "2026-11-01T15:00:00",
+      "timezone": "Asia/Riyadh",
+      "title": "How Much Sleep Do You Really Need?",
+      "caption": "How Much Sleep Do You Really Need? Are you getting enough sleep? Most adults aren't.\n\n1. Health experts say most adults need at least 7 hours of sleep a night.\n2. Teenagers need even more, around 8 to 10 hours.\n3. While you sleep, your brain sorts and stores memories from the day.\n4. Going to bed and waking up at the same time every day helps set your body clock.\n5. Caffeine can stay in your body for hours, so an afternoon coffee can affect your night.\n6. Bright screens late at night can make it harder to fall asleep.\n7. A cool, dark and quiet bedroom helps you sleep more deeply.\n8. Ongoing poor sleep is linked to problems with mood, focus and long-term health.\n\nWhich fact surprised you most? Tell us in the comments, and follow for 3 new videos every day.\n\nGeneral information only, not medical advice. Talk to a doctor about your own health.\nSources: CDC: How Much Sleep Do I Need?\n\n#sleeptips #howmuchsleep #bettersleep #healthtips #wellness",
+      "youtube_tags": [
+        "sleep tips",
+        "how much sleep",
+        "better sleep",
+        "did you know",
+        "facts",
+        "learn something new",
+        "interesting facts"
+      ],
+      "youtube_category": "HOWTO_STYLE",
+      "video_url": "https://cdn.jsdelivr.net/gh/zreik1990/daily-facts-videos@e408097d290e7eb230b37893bd243cf9d3356487/2026-11-01_2_hea-001-sleep.mp4",
+      "local_file": "/home/claude/ScenicAutopilot/out/2026-11-01/2026-11-01_2_hea-001-sleep.mp4",
+      "seconds": 87.5
+    },
+    {
+      "script_id": "fun-001-octopus",
+      "category": "fun",
+      "publish_at": "2026-11-01T20:00:00",
+      "timezone": "Asia/Riyadh",
+      "title": "Octopuses Are Weirder Than You Think",
+      "caption": "Octopuses Are Weirder Than You Think. An octopus has three hearts and blue blood.\n\n1. Two hearts pump blood to the gills, and the third pumps it to the rest of the body.\n2. Their blood is blue because it uses copper, not iron, to carry oxygen.\n3. About two thirds of an octopus's neurons are in its arms, not its head.\n4. Each arm can taste and touch what it grabs, almost like it has a mind of its own.\n5. They can change color and skin texture in a fraction of a second to hide.\n6. With no bones, an octopus can squeeze through any gap bigger than its beak.\n7. Octopuses in aquariums have been seen escaping their tanks and opening jars.\n8. Most octopuses live only one to two years.\n\nWhich fact surprised you most? Tell us in the comments, and follow for 3 new videos every day.\n\n#octopusfacts #animalfacts #oceananimals #funfacts #didyouknow",
+      "youtube_tags": [
+        "octopus facts",
+        "animal facts",
+        "ocean animals",
+        "did you know",
+        "facts",
+        "learn something new",
+        "interesting facts"
+      ],
+      "youtube_category": "ENTERTAINMENT",
+      "video_url": "https://cdn.jsdelivr.net/gh/zreik1990/daily-facts-videos@e408097d290e7eb230b37893bd243cf9d3356487/2026-11-01_3_fun-001-octopus.mp4",
+      "local_file": "/home/claude/ScenicAutopilot/out/2026-11-01/2026-11-01_3_fun-001-octopus.mp4",
+      "seconds": 87.9
+    }
+  ],
+  "scripts_remaining": 30
+}

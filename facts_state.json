@@ -2,7 +2,11 @@
   "used_ids": [
     "edu-004-pyramid",
     "hea-011-baby-sleep",
-    "fun-011-football-facts"
+    "fun-011-football-facts",
+    "edu-001-sky-blue",
+    "hea-001-sleep",
+    "fun-001-octopus"
   ],
-  "last_slot": "2026-10-31T20:00:00+03:00"
+  "last_slot": "2026-10-31T20:00:00+03:00",
+  "last_scheduled_date": "2026-11-01"
 }

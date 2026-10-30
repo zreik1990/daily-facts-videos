@@ -18,8 +18,9 @@ pip install --break-system-packages -r requirements.txt
 ffmpeg must be installed (`which ffmpeg`; if missing: `apt-get install -y ffmpeg`).
 
 ## 2. Skip if already done
+`DATE` is the day the posts go out. Run at ~03:00 Riyadh, `DATE` = today in Riyadh.
 If `out/DATE/plan.json` exists in the repo, or Metricool `getScheduledPosts` for DATE
-already shows posts, stop and report "already scheduled".
+already shows Daily Facts posts, stop and report "already scheduled".
 
 ## 3. Top up scripts if running low
 Run `python validate_scripts.py`. If fewer than 9 unused scripts remain
@@ -37,9 +38,11 @@ Run `python validate_scripts.py` again and fix every problem.
 ```
 python daily_run.py --date DATE --repo zreik1990/daily-facts-videos
 ```
-It renders 3 videos (about 5 minutes), uploads them to the GitHub release
-`videos-DATE` and prints `plan.json`. Check each item has a `video_url` and
-`seconds` between 60 and 100.
+It renders 3 videos (about 5 minutes), force-pushes them as the only files on the
+`media` branch, and writes `out/DATE/plan.json` (also printed on the line starting
+`PLAN_JSON`). Each `video_url` is a jsDelivr link pinned to that commit. Check each item
+has a `video_url` and `seconds` between 60 and 100. Metricool copies the video to its own
+storage when the post is created, so the media branch only needs today's files.
 
 ## 5. Schedule in Metricool
 For each item in plan.json call `createScheduledPost` with blogId 7763850 and:
@@ -52,6 +55,9 @@ If a post is rejected, fix the stated problem once and retry; otherwise report i
 
 ## 6. Save state
 ```
+python3 - <<'PY'
+import json; s=json.load(open('facts_state.json')); s['last_scheduled_date']='DATE'; json.dump(s,open('facts_state.json','w'),indent=2)
+PY
 git add facts_state.json FactScripts out/DATE/plan.json
 git commit -m "Daily run DATE"
 git push

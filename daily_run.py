@@ -3,7 +3,7 @@
 Cloud daily runner for Daily Facts.
 
 Picks the next N unused scripts, renders them as animated cartoon videos,
-uploads each video as an asset on a GitHub release (public download link),
+pushes the videos to the 'media' branch and links them through jsDelivr (public),
 and writes plan.json with everything needed to schedule the posts in Metricool
 (title, caption, YouTube tags, publish time, public video URL).
 
@@ -31,24 +31,34 @@ import shorts_autopilot as facts         # noqa: E402
 STATE = BASE / "facts_state.json"
 
 
-def gh(*args):
-    r = subprocess.run(["gh", *args], capture_output=True, text=True)
+def git(*args, cwd=None):
+    r = subprocess.run(["git", *args], capture_output=True, text=True, cwd=cwd)
     if r.returncode != 0:
-        raise RuntimeError(f"gh {' '.join(args[:3])} failed: {r.stderr.strip()[:400]}")
-    return r.stdout
+        raise RuntimeError(f"git {' '.join(args[:3])} failed: {r.stderr.strip()[:400]}")
+    return r.stdout.strip()
 
 
-def ensure_release(repo, tag, title):
-    try:
-        gh("release", "view", tag, "--repo", repo, "--json", "tagName")
-    except RuntimeError:
-        gh("release", "create", tag, "--repo", repo, "--title", title,
-           "--notes", "Daily Facts videos for " + tag.replace("videos-", ""), "--latest=false")
-
-
-def upload_asset(repo, tag, path):
-    gh("release", "upload", tag, str(path), "--repo", repo, "--clobber")
-    return f"https://github.com/{repo}/releases/download/{tag}/{path.name}"
+def publish_media(repo, date, files):
+    """Force-push today's videos as the only content of the 'media' branch and return
+    public jsDelivr links pinned to that commit (served as video/mp4, max 20 MB each).
+    Metricool copies each video to its own storage when the post is scheduled, so the
+    branch only has to hold the current day's files."""
+    tmp = BASE / "_media_branch"
+    shutil.rmtree(tmp, ignore_errors=True)
+    tmp.mkdir()
+    git("init", "-q", "-b", "media", cwd=tmp)
+    git("config", "user.name", "Daily Facts Bot", cwd=tmp)
+    git("config", "user.email", "noreply@anthropic.com", cwd=tmp)
+    for f in files:
+        shutil.copy(f, tmp / f.name)
+    (tmp / "README.md").write_text(f"Videos for {date}. Replaced every day.\n")
+    git("add", "-A", cwd=tmp)
+    git("commit", "-q", "-m", f"Videos for {date}", cwd=tmp)
+    remote = f"https://github.com/{repo}.git"
+    git("push", "-f", remote, "media:media", cwd=tmp)
+    sha = git("rev-parse", "HEAD", cwd=tmp)
+    shutil.rmtree(tmp, ignore_errors=True)
+    return {f.name: f"https://cdn.jsdelivr.net/gh/{repo}@{sha}/{f.name}" for f in files}
 
 
 def main():
@@ -85,9 +95,6 @@ def main():
     times = cfg["schedule"]["times"]
     out_dir = BASE / "out" / args.date
     out_dir.mkdir(parents=True, exist_ok=True)
-    tag = f"videos-{args.date}"
-    if not args.no_upload:
-        ensure_release(args.repo, tag, f"Daily Facts {args.date}")
 
     plan = []
     for i, script in enumerate(picked):
@@ -99,7 +106,7 @@ def main():
         length = facts.render_video(cfg, script, video, work)
         shutil.rmtree(work, ignore_errors=True)
         title, caption, yt_tags = facts.make_metadata(cfg, script)
-        url = None if args.no_upload else upload_asset(args.repo, tag, video)
+        url = None
         cat = script.get("category", "fun")
         plan.append({
             "script_id": sid,
@@ -116,11 +123,15 @@ def main():
         })
         state.setdefault("used_ids", []).append(sid)
 
+    if not args.no_upload:
+        links = publish_media(args.repo, args.date, [Path(i["local_file"]) for i in plan])
+        for item in plan:
+            item["video_url"] = links[Path(item["local_file"]).name]
     remaining = len(scripts) - len(picked)
     result = {"date": args.date, "items": plan, "scripts_remaining": remaining}
     (out_dir / "plan.json").write_text(json.dumps(result, indent=2, ensure_ascii=False))
     STATE.write_text(json.dumps(state, indent=2))
-    print(json.dumps(result, indent=2, ensure_ascii=False))
+    print("PLAN_JSON " + json.dumps(result, ensure_ascii=False))
 
 
 if __name__ == "__main__":
