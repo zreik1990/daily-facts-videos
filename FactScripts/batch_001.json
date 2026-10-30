@@ -1,0 +1,1744 @@
+[
+  {
+    "id": "edu-001-sky-blue",
+    "category": "education",
+    "title": "Why Is the Sky Blue and Not Purple?",
+    "hook": {
+      "text": "Why is the sky blue... and not purple?",
+      "search": "blue sky clouds",
+      "anim": "idea"
+    },
+    "points": [
+      {
+        "text": "Sunlight looks white, but it is really every color of the rainbow mixed together.",
+        "search": "sunlight rays",
+        "anim": "sunlight"
+      },
+      {
+        "text": "When sunlight hits our atmosphere, it bumps into tiny gas molecules of nitrogen and oxygen.",
+        "search": "atmosphere earth",
+        "anim": "globe"
+      },
+      {
+        "text": "Those molecules scatter short wavelengths, like blue and violet, much more than red.",
+        "search": "light prism rainbow",
+        "anim": "sunlight"
+      },
+      {
+        "text": "This is called Rayleigh scattering, and it sends blue light bouncing all across the sky.",
+        "search": "blue sky",
+        "anim": "book"
+      },
+      {
+        "text": "Violet scatters even more than blue, so why isn't the sky purple?",
+        "search": "purple sky",
+        "anim": "idea"
+      },
+      {
+        "text": "The Sun gives off less violet light, and our eyes are much more sensitive to blue.",
+        "search": "human eye close up",
+        "anim": "brain"
+      },
+      {
+        "text": "At sunset, light travels through far more air, so most blue scatters away before reaching you.",
+        "search": "sunset sky",
+        "anim": "plane"
+      },
+      {
+        "text": "That leaves the reds and oranges, which is why sunsets glow warm.",
+        "search": "orange sunset clouds",
+        "anim": "sunlight"
+      }
+    ],
+    "tags": [
+      "why is the sky blue",
+      "rayleigh scattering",
+      "science explained"
+    ]
+  },
+  {
+    "id": "hea-001-sleep",
+    "category": "health",
+    "title": "How Much Sleep Do You Really Need?",
+    "hook": {
+      "text": "Are you getting enough sleep? Most adults aren't.",
+      "search": "person sleeping bed",
+      "anim": "sleep"
+    },
+    "points": [
+      {
+        "text": "Health experts say most adults need at least 7 hours of sleep a night.",
+        "search": "alarm clock night",
+        "anim": "clock"
+      },
+      {
+        "text": "Teenagers need even more, around 8 to 10 hours.",
+        "search": "teenager sleeping",
+        "anim": "book"
+      },
+      {
+        "text": "While you sleep, your brain sorts and stores memories from the day.",
+        "search": "brain illustration",
+        "anim": "brain"
+      },
+      {
+        "text": "Going to bed and waking up at the same time every day helps set your body clock.",
+        "search": "morning wake up",
+        "anim": "calendar"
+      },
+      {
+        "text": "Caffeine can stay in your body for hours, so an afternoon coffee can affect your night.",
+        "search": "coffee cup",
+        "anim": "clock"
+      },
+      {
+        "text": "Bright screens late at night can make it harder to fall asleep.",
+        "search": "phone in bed night",
+        "anim": "phone"
+      },
+      {
+        "text": "A cool, dark and quiet bedroom helps you sleep more deeply.",
+        "search": "dark bedroom",
+        "anim": "sleep"
+      },
+      {
+        "text": "Ongoing poor sleep is linked to problems with mood, focus and long-term health.",
+        "search": "tired person",
+        "anim": "heart"
+      }
+    ],
+    "sources": [
+      "CDC: How Much Sleep Do I Need?"
+    ],
+    "tags": [
+      "sleep tips",
+      "how much sleep",
+      "better sleep"
+    ]
+  },
+  {
+    "id": "fun-001-octopus",
+    "category": "fun",
+    "title": "Octopuses Are Weirder Than You Think",
+    "hook": {
+      "text": "An octopus has three hearts and blue blood.",
+      "search": "octopus underwater",
+      "anim": "octopus"
+    },
+    "points": [
+      {
+        "text": "Two hearts pump blood to the gills, and the third pumps it to the rest of the body.",
+        "search": "octopus swimming",
+        "anim": "heart"
+      },
+      {
+        "text": "Their blood is blue because it uses copper, not iron, to carry oxygen.",
+        "search": "blue water ocean",
+        "anim": "fish"
+      },
+      {
+        "text": "About two thirds of an octopus's neurons are in its arms, not its head.",
+        "search": "octopus tentacles",
+        "anim": "brain"
+      },
+      {
+        "text": "Each arm can taste and touch what it grabs, almost like it has a mind of its own.",
+        "search": "octopus arm suckers",
+        "anim": "octopus"
+      },
+      {
+        "text": "They can change color and skin texture in a fraction of a second to hide.",
+        "search": "octopus camouflage",
+        "anim": "idea"
+      },
+      {
+        "text": "With no bones, an octopus can squeeze through any gap bigger than its beak.",
+        "search": "octopus reef",
+        "anim": "octopus"
+      },
+      {
+        "text": "Octopuses in aquariums have been seen escaping their tanks and opening jars.",
+        "search": "aquarium",
+        "anim": "fish"
+      },
+      {
+        "text": "Most octopuses live only one to two years.",
+        "search": "octopus ocean floor",
+        "anim": "calendar"
+      }
+    ],
+    "tags": [
+      "octopus facts",
+      "animal facts",
+      "ocean animals"
+    ]
+  },
+  {
+    "id": "edu-002-leap-year",
+    "category": "education",
+    "title": "Why Do Leap Years Exist?",
+    "hook": {
+      "text": "Why does February get an extra day every four years?",
+      "search": "calendar pages",
+      "anim": "calendar"
+    },
+    "points": [
+      {
+        "text": "A year is how long Earth takes to go around the Sun.",
+        "search": "earth orbit space",
+        "anim": "space"
+      },
+      {
+        "text": "That trip takes about 365 days and 6 hours, not exactly 365 days.",
+        "search": "earth from space",
+        "anim": "clock"
+      },
+      {
+        "text": "Those extra 6 hours add up to about one full day every four years.",
+        "search": "clock time lapse",
+        "anim": "clock"
+      },
+      {
+        "text": "So we add February 29th to keep the calendar in step with the seasons.",
+        "search": "calendar",
+        "anim": "calendar"
+      },
+      {
+        "text": "But the real extra time is slightly less than 6 hours, so even that rule overshoots.",
+        "search": "hourglass",
+        "anim": "idea"
+      },
+      {
+        "text": "That's why years ending in 00 skip the leap day, unless they divide evenly by 400.",
+        "search": "numbers",
+        "anim": "book"
+      },
+      {
+        "text": "So 2000 was a leap year, but 1900 was not, and 2100 won't be either.",
+        "search": "old calendar",
+        "anim": "calendar"
+      },
+      {
+        "text": "This system comes from the Gregorian calendar, introduced in 1582.",
+        "search": "old church europe",
+        "anim": "book"
+      }
+    ],
+    "tags": [
+      "leap year explained",
+      "calendar facts",
+      "february 29"
+    ]
+  },
+  {
+    "id": "hea-002-water",
+    "category": "health",
+    "title": "Do You Really Need 8 Glasses of Water a Day?",
+    "hook": {
+      "text": "Do you really need 8 glasses of water a day?",
+      "search": "glass of water",
+      "anim": "water"
+    },
+    "points": [
+      {
+        "text": "About 60 percent of your body is water, and you lose some every day.",
+        "search": "water splash",
+        "anim": "fish"
+      },
+      {
+        "text": "But there is no single amount that is right for everyone.",
+        "search": "drinking water",
+        "anim": "idea"
+      },
+      {
+        "text": "How much you need depends on your size, your activity, and the weather.",
+        "search": "hot sunny day",
+        "anim": "sunlight"
+      },
+      {
+        "text": "Food counts too: fruit, vegetables and soups give you a good share of your water.",
+        "search": "watermelon fruit",
+        "anim": "fruit"
+      },
+      {
+        "text": "A simple check: pale yellow urine usually means you're drinking enough.",
+        "search": "lemon water",
+        "anim": "water"
+      },
+      {
+        "text": "Thirst, headaches and tiredness can be signs you need more fluids.",
+        "search": "tired at desk",
+        "anim": "brain"
+      },
+      {
+        "text": "You need extra water when you exercise, sweat a lot, or spend time in the heat.",
+        "search": "running outdoor",
+        "anim": "dumbbell"
+      },
+      {
+        "text": "Keeping a water bottle nearby is one of the easiest ways to drink more.",
+        "search": "water bottle",
+        "anim": "water"
+      }
+    ],
+    "sources": [
+      "CDC: About Water and Healthier Drinks"
+    ],
+    "tags": [
+      "hydration",
+      "drink water",
+      "health tips"
+    ]
+  },
+  {
+    "id": "fun-002-honey",
+    "category": "fun",
+    "title": "Why Honey Almost Never Goes Bad",
+    "hook": {
+      "text": "Honey can stay good to eat for thousands of years.",
+      "search": "honey dripping",
+      "anim": "bee"
+    },
+    "points": [
+      {
+        "text": "Archaeologists have found pots of honey in ancient Egyptian tombs.",
+        "search": "egypt pyramid",
+        "anim": "pyramid"
+      },
+      {
+        "text": "Honey has very little water, so bacteria can't survive in it.",
+        "search": "honey jar",
+        "anim": "water"
+      },
+      {
+        "text": "It is also naturally acidic, which makes it even harder for germs to grow.",
+        "search": "honeycomb",
+        "anim": "book"
+      },
+      {
+        "text": "Bees add an enzyme that slowly produces tiny amounts of hydrogen peroxide.",
+        "search": "bee closeup",
+        "anim": "germs"
+      },
+      {
+        "text": "If honey turns hard and cloudy, it hasn't spoiled. It has just crystallized.",
+        "search": "honey spoon",
+        "anim": "idea"
+      },
+      {
+        "text": "Warming the jar gently in water turns it back to liquid.",
+        "search": "honey jar kitchen",
+        "anim": "sunlight"
+      },
+      {
+        "text": "A single worker bee makes only about one twelfth of a teaspoon in its whole life.",
+        "search": "bee flower",
+        "anim": "bee"
+      },
+      {
+        "text": "Keep the lid on tight, because honey can absorb moisture from the air.",
+        "search": "beekeeper",
+        "anim": "water"
+      }
+    ],
+    "tags": [
+      "honey facts",
+      "food facts",
+      "bees"
+    ]
+  },
+  {
+    "id": "edu-003-airplanes",
+    "category": "education",
+    "title": "How Do Airplanes Stay in the Air?",
+    "hook": {
+      "text": "How does a 400-ton airplane stay in the sky?",
+      "search": "airplane flying",
+      "anim": "plane"
+    },
+    "points": [
+      {
+        "text": "Four forces act on every plane: lift, weight, thrust and drag.",
+        "search": "airplane sky",
+        "anim": "idea"
+      },
+      {
+        "text": "The engines create thrust, pushing the plane forward fast through the air.",
+        "search": "jet engine",
+        "anim": "plane"
+      },
+      {
+        "text": "As air flows over the wings, their shape and angle push air downward.",
+        "search": "airplane wing",
+        "anim": "book"
+      },
+      {
+        "text": "Pushing air down creates an equal push upward on the wing. That push is lift.",
+        "search": "airplane takeoff",
+        "anim": "dumbbell"
+      },
+      {
+        "text": "Air also moves faster over the curved top of the wing, which lowers the pressure there.",
+        "search": "clouds from airplane",
+        "anim": "idea"
+      },
+      {
+        "text": "When lift is greater than the plane's weight, it climbs.",
+        "search": "plane climbing",
+        "anim": "plane"
+      },
+      {
+        "text": "Pilots use flaps on the wings to create extra lift for takeoff and landing.",
+        "search": "airplane landing",
+        "anim": "book"
+      },
+      {
+        "text": "That's why planes need speed: no airflow over the wings means no lift.",
+        "search": "runway airport",
+        "anim": "clock"
+      }
+    ],
+    "tags": [
+      "how planes fly",
+      "physics explained",
+      "aviation"
+    ]
+  },
+  {
+    "id": "hea-003-walking",
+    "category": "health",
+    "title": "What Walking Every Day Does to Your Body",
+    "hook": {
+      "text": "The simplest exercise there is might be the most underrated.",
+      "search": "people walking park",
+      "anim": "walk"
+    },
+    "points": [
+      {
+        "text": "The World Health Organization recommends at least 150 minutes of moderate activity a week.",
+        "search": "walking city",
+        "anim": "calendar"
+      },
+      {
+        "text": "That's just over 20 minutes a day, and brisk walking counts.",
+        "search": "brisk walking",
+        "anim": "clock"
+      },
+      {
+        "text": "You don't have to do it all at once. Short walks add up.",
+        "search": "walking stairs",
+        "anim": "walk"
+      },
+      {
+        "text": "Regular walking strengthens your heart and helps control blood pressure.",
+        "search": "heart health",
+        "anim": "heart"
+      },
+      {
+        "text": "A short walk after a meal can help your body manage blood sugar.",
+        "search": "family walking",
+        "anim": "fruit"
+      },
+      {
+        "text": "Walking outdoors is also linked to better mood and less stress.",
+        "search": "forest trail walking",
+        "anim": "sunlight"
+      },
+      {
+        "text": "Walking with a friend makes it easier to stick with the habit.",
+        "search": "friends walking",
+        "anim": "dog"
+      },
+      {
+        "text": "Start where you are, and add a few minutes each week.",
+        "search": "sneakers walking",
+        "anim": "walk"
+      }
+    ],
+    "sources": [
+      "WHO: Physical activity fact sheet"
+    ],
+    "tags": [
+      "walking benefits",
+      "exercise tips",
+      "healthy habits"
+    ]
+  },
+  {
+    "id": "fun-003-berries",
+    "category": "fun",
+    "title": "Bananas Are Berries, Strawberries Aren't",
+    "hook": {
+      "text": "A banana is a berry. A strawberry is not.",
+      "search": "bananas",
+      "anim": "fruit"
+    },
+    "points": [
+      {
+        "text": "To botanists, a berry is a fruit that grows from one flower with one ovary.",
+        "search": "flower blooming",
+        "anim": "idea"
+      },
+      {
+        "text": "It also has its seeds inside a soft, fleshy middle.",
+        "search": "fruit cut open",
+        "anim": "book"
+      },
+      {
+        "text": "By that rule, bananas, grapes and kiwis are all berries.",
+        "search": "grapes",
+        "anim": "fruit"
+      },
+      {
+        "text": "So are tomatoes, eggplants and even avocados.",
+        "search": "tomatoes",
+        "anim": "fruit"
+      },
+      {
+        "text": "Strawberries carry their seeds on the outside, so they don't qualify.",
+        "search": "strawberries",
+        "anim": "fruit"
+      },
+      {
+        "text": "Raspberries and blackberries aren't true berries either. They're clusters of tiny fruits.",
+        "search": "raspberries",
+        "anim": "idea"
+      },
+      {
+        "text": "And peanuts aren't nuts. They're legumes, like beans and peas.",
+        "search": "peanuts",
+        "anim": "fruit"
+      },
+      {
+        "text": "Fruit names came from cooks long before scientists sorted them.",
+        "search": "fruit market",
+        "anim": "book"
+      }
+    ],
+    "tags": [
+      "fruit facts",
+      "banana berry",
+      "did you know"
+    ]
+  },
+  {
+    "id": "edu-004-pyramid",
+    "category": "education",
+    "title": "How Was the Great Pyramid Built?",
+    "hook": {
+      "text": "The Great Pyramid was the tallest building on Earth for about 3,800 years.",
+      "search": "pyramids giza",
+      "anim": "pyramid"
+    },
+    "points": [
+      {
+        "text": "It was built around 4,500 years ago for the Egyptian pharaoh Khufu.",
+        "search": "egypt desert",
+        "anim": "pyramid"
+      },
+      {
+        "text": "It's made of roughly 2.3 million stone blocks.",
+        "search": "stone blocks",
+        "anim": "calendar"
+      },
+      {
+        "text": "The average block weighs about two and a half tons, as much as a car.",
+        "search": "pyramid stones close",
+        "anim": "dumbbell"
+      },
+      {
+        "text": "It was likely built by thousands of paid workers, not slaves.",
+        "search": "ancient ruins egypt",
+        "anim": "walk"
+      },
+      {
+        "text": "Archaeologists found their village nearby, with bakeries and tombs.",
+        "search": "archaeology dig",
+        "anim": "book"
+      },
+      {
+        "text": "Workers probably dragged blocks on sledges and wet the sand to reduce friction.",
+        "search": "desert sand",
+        "anim": "walk"
+      },
+      {
+        "text": "Ramps were used to move the stones up as the pyramid grew.",
+        "search": "pyramid",
+        "anim": "pyramid"
+      },
+      {
+        "text": "It was first about 146 meters tall, and its sides line up closely with north, south, east and west.",
+        "search": "pyramid sunset",
+        "anim": "globe"
+      }
+    ],
+    "tags": [
+      "great pyramid",
+      "ancient egypt",
+      "history facts"
+    ]
+  },
+  {
+    "id": "hea-004-eyes",
+    "category": "health",
+    "title": "The 20-20-20 Rule for Tired Eyes",
+    "hook": {
+      "text": "Staring at screens all day? Try the 20-20-20 rule.",
+      "search": "person computer screen",
+      "anim": "phone"
+    },
+    "points": [
+      {
+        "text": "Every 20 minutes, look at something about 20 feet away, or 6 meters.",
+        "search": "looking out window",
+        "anim": "globe"
+      },
+      {
+        "text": "Keep looking for 20 seconds. That's the whole rule.",
+        "search": "stopwatch",
+        "anim": "clock"
+      },
+      {
+        "text": "It gives the focusing muscles in your eyes a short break.",
+        "search": "eye closeup",
+        "anim": "brain"
+      },
+      {
+        "text": "We blink less when we look at screens, which can leave eyes dry.",
+        "search": "laptop work",
+        "anim": "phone"
+      },
+      {
+        "text": "Blinking on purpose a few times helps keep your eyes moist.",
+        "search": "woman eyes",
+        "anim": "idea"
+      },
+      {
+        "text": "Keep your screen about an arm's length away, slightly below eye level.",
+        "search": "desk setup",
+        "anim": "phone"
+      },
+      {
+        "text": "Match screen brightness to the room to reduce glare.",
+        "search": "office lights",
+        "anim": "sunlight"
+      },
+      {
+        "text": "If your eyes still hurt or your vision changes, see an eye doctor.",
+        "search": "eye exam",
+        "anim": "book"
+      }
+    ],
+    "sources": [
+      "American Academy of Ophthalmology: Computers, Digital Devices and Eye Strain"
+    ],
+    "tags": [
+      "eye strain",
+      "20 20 20 rule",
+      "screen time"
+    ]
+  },
+  {
+    "id": "fun-004-animal-sleep",
+    "category": "fun",
+    "title": "The Strangest Ways Animals Sleep",
+    "hook": {
+      "text": "Some animals sleep with half their brain awake.",
+      "search": "dolphins swimming",
+      "anim": "sleep"
+    },
+    "points": [
+      {
+        "text": "Dolphins rest one half of their brain at a time so they can keep breathing.",
+        "search": "dolphin",
+        "anim": "fish"
+      },
+      {
+        "text": "Sea otters often hold paws while sleeping so they don't drift apart.",
+        "search": "sea otter",
+        "anim": "fish"
+      },
+      {
+        "text": "Some seabirds, called frigatebirds, can sleep in short bursts while flying.",
+        "search": "seabird flying",
+        "anim": "plane"
+      },
+      {
+        "text": "Giraffes in the wild sleep only a few hours a day, often in tiny naps.",
+        "search": "giraffe",
+        "anim": "clock"
+      },
+      {
+        "text": "Koalas sleep up to 18 to 22 hours a day to save energy.",
+        "search": "koala",
+        "anim": "sleep"
+      },
+      {
+        "text": "Horses can doze standing up, thanks to a special locking system in their legs.",
+        "search": "horse field",
+        "anim": "dog"
+      },
+      {
+        "text": "Sperm whales take short naps floating upright in the water.",
+        "search": "whale underwater",
+        "anim": "whale"
+      },
+      {
+        "text": "And cats sleep around 12 to 16 hours a day.",
+        "search": "cat sleeping",
+        "anim": "cat"
+      }
+    ],
+    "tags": [
+      "animal facts",
+      "how animals sleep",
+      "nature facts"
+    ]
+  },
+  {
+    "id": "edu-005-salty-ocean",
+    "category": "education",
+    "title": "Why Is the Ocean Salty?",
+    "hook": {
+      "text": "Rivers are fresh water. So why is the ocean salty?",
+      "search": "ocean waves",
+      "anim": "fish"
+    },
+    "points": [
+      {
+        "text": "Rain is slightly acidic, and over time it wears down rocks on land.",
+        "search": "rain",
+        "anim": "lightning"
+      },
+      {
+        "text": "That releases minerals and salts, which rivers carry to the sea.",
+        "search": "river flowing",
+        "anim": "globe"
+      },
+      {
+        "text": "When sun heats the ocean, water evaporates but the salt stays behind.",
+        "search": "sea sunlight",
+        "anim": "sunlight"
+      },
+      {
+        "text": "Over millions of years, that salt has built up.",
+        "search": "salt crystals",
+        "anim": "calendar"
+      },
+      {
+        "text": "Vents and volcanoes on the seafloor add even more minerals.",
+        "search": "underwater volcano",
+        "anim": "lightning"
+      },
+      {
+        "text": "On average, ocean water is about 3.5 percent salt.",
+        "search": "beach",
+        "anim": "idea"
+      },
+      {
+        "text": "The Dead Sea is almost ten times saltier, which is why people float so easily in it.",
+        "search": "dead sea",
+        "anim": "whale"
+      },
+      {
+        "text": "Most of the salt in the sea is the same kind you put on food: sodium chloride.",
+        "search": "sea salt",
+        "anim": "fruit"
+      }
+    ],
+    "tags": [
+      "why is the ocean salty",
+      "ocean facts",
+      "earth science"
+    ]
+  },
+  {
+    "id": "hea-005-handwashing",
+    "category": "health",
+    "title": "You're Probably Washing Your Hands Too Fast",
+    "hook": {
+      "text": "Studies find many people wash their hands for only a few seconds.",
+      "search": "washing hands",
+      "anim": "germs"
+    },
+    "points": [
+      {
+        "text": "Health experts recommend scrubbing with soap for at least 20 seconds.",
+        "search": "soap hands",
+        "anim": "clock"
+      },
+      {
+        "text": "That's about as long as humming 'Happy Birthday' twice.",
+        "search": "sink water",
+        "anim": "idea"
+      },
+      {
+        "text": "Soap works by breaking apart the oily layer that surrounds many germs.",
+        "search": "soap bubbles",
+        "anim": "germs"
+      },
+      {
+        "text": "Don't forget the backs of your hands, between your fingers, and under your nails.",
+        "search": "hands lather",
+        "anim": "water"
+      },
+      {
+        "text": "Rinse well under clean running water.",
+        "search": "running water tap",
+        "anim": "sunlight"
+      },
+      {
+        "text": "Dry your hands fully, because germs spread more easily from wet hands.",
+        "search": "towel",
+        "anim": "fruit"
+      },
+      {
+        "text": "Wash before eating, after the bathroom, and after coughing or sneezing.",
+        "search": "kitchen cooking",
+        "anim": "germs"
+      },
+      {
+        "text": "No sink? Use a hand sanitizer with at least 60 percent alcohol.",
+        "search": "hand sanitizer",
+        "anim": "water"
+      }
+    ],
+    "sources": [
+      "CDC: When and How to Wash Your Hands"
+    ],
+    "tags": [
+      "hand washing",
+      "hygiene",
+      "health tips"
+    ]
+  },
+  {
+    "id": "fun-005-space",
+    "category": "fun",
+    "title": "Space Facts That Sound Fake But Aren't",
+    "hook": {
+      "text": "A day on Venus is longer than its year.",
+      "search": "planet space",
+      "anim": "space"
+    },
+    "points": [
+      {
+        "text": "Venus takes about 243 Earth days to spin once, but only 225 to orbit the Sun.",
+        "search": "venus planet",
+        "anim": "calendar"
+      },
+      {
+        "text": "Astronauts' footprints on the Moon could last millions of years, because there's no wind.",
+        "search": "moon surface",
+        "anim": "walk"
+      },
+      {
+        "text": "Astronauts get a few centimeters taller in space, as their spines stretch out.",
+        "search": "astronaut",
+        "anim": "bones"
+      },
+      {
+        "text": "The space station circles Earth about every 90 minutes.",
+        "search": "space station",
+        "anim": "globe"
+      },
+      {
+        "text": "So its crew can see around 16 sunrises every day.",
+        "search": "sunrise from space",
+        "anim": "sunlight"
+      },
+      {
+        "text": "Saturn is so light for its size that it would float in a giant enough bathtub.",
+        "search": "saturn rings",
+        "anim": "space"
+      },
+      {
+        "text": "Sunlight takes about 8 minutes to reach Earth, so you always see the Sun as it was.",
+        "search": "sun",
+        "anim": "clock"
+      },
+      {
+        "text": "There are more stars in the universe than grains of sand on all of Earth's beaches.",
+        "search": "starry night sky",
+        "anim": "idea"
+      }
+    ],
+    "tags": [
+      "space facts",
+      "astronomy",
+      "did you know"
+    ]
+  },
+  {
+    "id": "edu-006-internet-cables",
+    "category": "education",
+    "title": "The Internet Lives at the Bottom of the Ocean",
+    "hook": {
+      "text": "Your internet probably crosses the ocean floor.",
+      "search": "deep ocean",
+      "anim": "globe"
+    },
+    "points": [
+      {
+        "text": "Almost all data between continents travels through cables on the seabed, not satellites.",
+        "search": "ocean floor",
+        "anim": "phone"
+      },
+      {
+        "text": "Together, these cables stretch well over a million kilometers.",
+        "search": "world map",
+        "anim": "globe"
+      },
+      {
+        "text": "Inside are thin glass fibers that carry data as pulses of light.",
+        "search": "fiber optic",
+        "anim": "lightning"
+      },
+      {
+        "text": "In the deep ocean, many cables are only about as thick as a garden hose.",
+        "search": "cable",
+        "anim": "idea"
+      },
+      {
+        "text": "Near the shore they get thicker armor to protect them from anchors and fishing gear.",
+        "search": "ship anchor",
+        "anim": "fish"
+      },
+      {
+        "text": "When a cable breaks, special repair ships haul it up and fix it at sea.",
+        "search": "ship at sea",
+        "anim": "whale"
+      },
+      {
+        "text": "The first cable across the Atlantic carried telegraph messages back in 1858.",
+        "search": "old telegraph",
+        "anim": "book"
+      },
+      {
+        "text": "So the next time you send a message abroad, it may be racing along the seafloor.",
+        "search": "phone typing",
+        "anim": "phone"
+      }
+    ],
+    "tags": [
+      "internet cables",
+      "how the internet works",
+      "technology facts"
+    ]
+  },
+  {
+    "id": "hea-006-sunscreen",
+    "category": "health",
+    "title": "Sunscreen Mistakes Almost Everyone Makes",
+    "hook": {
+      "text": "You can get sunburned on a cloudy day.",
+      "search": "cloudy sky sun",
+      "anim": "umbrella"
+    },
+    "points": [
+      {
+        "text": "Up to 80 percent of the Sun's UV rays can pass through clouds.",
+        "search": "clouds",
+        "anim": "sunlight"
+      },
+      {
+        "text": "Dermatologists recommend a broad-spectrum sunscreen of SPF 30 or higher.",
+        "search": "sunscreen",
+        "anim": "umbrella"
+      },
+      {
+        "text": "Most people use too little. Adults need about a shot glass worth for the whole body.",
+        "search": "applying sunscreen",
+        "anim": "idea"
+      },
+      {
+        "text": "Reapply every two hours, and after swimming or sweating.",
+        "search": "swimming pool",
+        "anim": "clock"
+      },
+      {
+        "text": "Don't forget your ears, neck, feet and the back of your hands.",
+        "search": "beach summer",
+        "anim": "walk"
+      },
+      {
+        "text": "UV rays are usually strongest from about 10 in the morning to 4 in the afternoon.",
+        "search": "midday sun",
+        "anim": "clock"
+      },
+      {
+        "text": "Water, sand and snow reflect sunlight, adding to your exposure.",
+        "search": "snow mountain sun",
+        "anim": "fish"
+      },
+      {
+        "text": "A hat and UV-blocking sunglasses protect the spots sunscreen misses.",
+        "search": "sunglasses hat",
+        "anim": "umbrella"
+      }
+    ],
+    "sources": [
+      "American Academy of Dermatology: How to apply sunscreen",
+      "Skin Cancer Foundation"
+    ],
+    "tags": [
+      "sunscreen tips",
+      "skin care",
+      "sun safety"
+    ]
+  },
+  {
+    "id": "fun-006-human-body",
+    "category": "fun",
+    "title": "Weird Facts About Your Own Body",
+    "hook": {
+      "text": "You were born with about 300 bones. Now you have 206.",
+      "search": "human skeleton",
+      "anim": "bones"
+    },
+    "points": [
+      {
+        "text": "As babies grow, many of their bones fuse together.",
+        "search": "baby",
+        "anim": "baby"
+      },
+      {
+        "text": "Your stomach lining replaces itself every few days so acid doesn't digest it.",
+        "search": "healthy food",
+        "anim": "fruit"
+      },
+      {
+        "text": "The human body gives off a very faint light, but it's far too weak for our eyes to see.",
+        "search": "glowing light",
+        "anim": "idea"
+      },
+      {
+        "text": "Your nose can tell apart a huge number of different smells.",
+        "search": "smelling flowers",
+        "anim": "brain"
+      },
+      {
+        "text": "You're slightly taller in the morning than at night.",
+        "search": "morning stretch",
+        "anim": "sleep"
+      },
+      {
+        "text": "During the day, the discs in your spine get squeezed. They recover while you sleep.",
+        "search": "spine",
+        "anim": "bones"
+      },
+      {
+        "text": "Your fingerprints are unique, even if you're an identical twin.",
+        "search": "fingerprint",
+        "anim": "idea"
+      },
+      {
+        "text": "And your heart beats around 100,000 times every day.",
+        "search": "heartbeat",
+        "anim": "heart"
+      }
+    ],
+    "tags": [
+      "human body facts",
+      "science facts",
+      "did you know"
+    ]
+  },
+  {
+    "id": "edu-007-time-zones",
+    "category": "education",
+    "title": "Why Do We Have Time Zones?",
+    "hook": {
+      "text": "Before time zones, every town set its own clock.",
+      "search": "old clock tower",
+      "anim": "clock"
+    },
+    "points": [
+      {
+        "text": "Towns used to set noon by when the Sun was highest in their own sky.",
+        "search": "sun noon",
+        "anim": "sunlight"
+      },
+      {
+        "text": "That meant two nearby towns could be several minutes apart.",
+        "search": "small town",
+        "anim": "walk"
+      },
+      {
+        "text": "Railroads made this a real problem: train timetables were a mess.",
+        "search": "old train",
+        "anim": "clock"
+      },
+      {
+        "text": "In 1883, North American railroads adopted standard time zones.",
+        "search": "railway tracks",
+        "anim": "calendar"
+      },
+      {
+        "text": "In 1884, countries agreed to measure longitude from Greenwich, in London.",
+        "search": "london",
+        "anim": "globe"
+      },
+      {
+        "text": "Earth spins 15 degrees every hour, so each standard zone is roughly 15 degrees wide.",
+        "search": "earth rotating",
+        "anim": "space"
+      },
+      {
+        "text": "But borders bend the lines: China uses one time zone across the whole country.",
+        "search": "china city",
+        "anim": "idea"
+      },
+      {
+        "text": "Some places are half an hour off, like India, and Nepal is 45 minutes off.",
+        "search": "world clocks",
+        "anim": "clock"
+      }
+    ],
+    "tags": [
+      "time zones",
+      "history of time",
+      "geography facts"
+    ]
+  },
+  {
+    "id": "hea-007-fiber",
+    "category": "health",
+    "title": "The Nutrient Most People Don't Eat Enough Of",
+    "hook": {
+      "text": "Most people eat only about half the fiber they need.",
+      "search": "healthy breakfast",
+      "anim": "fruit"
+    },
+    "points": [
+      {
+        "text": "Fiber is the part of plant food your body can't fully digest.",
+        "search": "vegetables",
+        "anim": "idea"
+      },
+      {
+        "text": "It helps keep digestion regular and helps you feel full longer.",
+        "search": "salad bowl",
+        "anim": "heart"
+      },
+      {
+        "text": "US guidelines suggest about 25 grams a day for women and 38 for men.",
+        "search": "food label",
+        "anim": "book"
+      },
+      {
+        "text": "Beans, lentils and peas are some of the richest sources.",
+        "search": "lentils beans",
+        "anim": "fruit"
+      },
+      {
+        "text": "Whole grains like oats and brown rice beat white bread and white rice.",
+        "search": "oatmeal",
+        "anim": "fruit"
+      },
+      {
+        "text": "Fruit and vegetables count too, especially with the skin on.",
+        "search": "apples",
+        "anim": "fruit"
+      },
+      {
+        "text": "Nuts and seeds make easy high-fiber snacks.",
+        "search": "nuts seeds",
+        "anim": "fruit"
+      },
+      {
+        "text": "Add fiber slowly and drink enough water, to avoid bloating.",
+        "search": "glass of water",
+        "anim": "water"
+      }
+    ],
+    "sources": [
+      "Dietary Guidelines for Americans; Institute of Medicine fiber recommendations"
+    ],
+    "tags": [
+      "fiber",
+      "nutrition tips",
+      "healthy eating"
+    ]
+  },
+  {
+    "id": "fun-007-pets",
+    "category": "fun",
+    "title": "Things Your Cat and Dog Won't Tell You",
+    "hook": {
+      "text": "Your cat can't taste anything sweet.",
+      "search": "cat face",
+      "anim": "cat"
+    },
+    "points": [
+      {
+        "text": "Cats lack a working sweet taste receptor, so sugar means nothing to them.",
+        "search": "cat eating",
+        "anim": "cat"
+      },
+      {
+        "text": "Every dog's nose print is unique, like a human fingerprint.",
+        "search": "dog nose",
+        "anim": "dog"
+      },
+      {
+        "text": "Dogs' sense of smell is thousands of times stronger than ours.",
+        "search": "dog sniffing",
+        "anim": "dog"
+      },
+      {
+        "text": "Cats usually only meow at people, not at other adult cats.",
+        "search": "cat meowing",
+        "anim": "cat"
+      },
+      {
+        "text": "Many dogs can learn the names of dozens of words and objects.",
+        "search": "dog toy",
+        "anim": "dog"
+      },
+      {
+        "text": "Cats spend around 12 to 16 hours a day asleep.",
+        "search": "cat sleeping sun",
+        "anim": "cat"
+      },
+      {
+        "text": "A dog's wagging tail doesn't always mean it's happy. Watch the whole body.",
+        "search": "dog wagging tail",
+        "anim": "dog"
+      },
+      {
+        "text": "And when a cat slowly blinks at you, it's a sign it trusts you.",
+        "search": "cat eyes",
+        "anim": "cat"
+      }
+    ],
+    "tags": [
+      "cat facts",
+      "dog facts",
+      "pet facts"
+    ]
+  },
+  {
+    "id": "edu-008-black-holes",
+    "category": "education",
+    "title": "Black Holes Explained in 90 Seconds",
+    "hook": {
+      "text": "There's a place in space where even light can't escape.",
+      "search": "black hole space",
+      "anim": "space"
+    },
+    "points": [
+      {
+        "text": "A black hole is a region where gravity is so strong nothing can get out.",
+        "search": "galaxy",
+        "anim": "idea"
+      },
+      {
+        "text": "Many form when a huge star runs out of fuel and collapses on itself.",
+        "search": "star explosion",
+        "anim": "space"
+      },
+      {
+        "text": "The edge you can't come back from is called the event horizon.",
+        "search": "space nebula",
+        "anim": "brain"
+      },
+      {
+        "text": "Near a black hole, time runs slower than it does far away.",
+        "search": "clock",
+        "anim": "clock"
+      },
+      {
+        "text": "We can't see black holes directly, but we see the glowing gas swirling around them.",
+        "search": "space glowing",
+        "anim": "sunlight"
+      },
+      {
+        "text": "In 2019, scientists released the first image of a black hole, in the galaxy M87.",
+        "search": "telescope",
+        "anim": "phone"
+      },
+      {
+        "text": "There's one at the center of our own galaxy called Sagittarius A*.",
+        "search": "milky way",
+        "anim": "globe"
+      },
+      {
+        "text": "It's about 4 million times the mass of our Sun.",
+        "search": "sun space",
+        "anim": "dumbbell"
+      }
+    ],
+    "tags": [
+      "black holes",
+      "space explained",
+      "astronomy"
+    ]
+  },
+  {
+    "id": "hea-008-breathing",
+    "category": "health",
+    "title": "A 60-Second Breathing Trick to Calm Down",
+    "hook": {
+      "text": "Feeling stressed? Your breath can help in about a minute.",
+      "search": "calm person breathing",
+      "anim": "breath"
+    },
+    "points": [
+      {
+        "text": "When you're stressed, your breathing often gets fast and shallow.",
+        "search": "stressed person",
+        "anim": "brain"
+      },
+      {
+        "text": "Slow, steady breathing can help your body shift toward a calmer state.",
+        "search": "meditation",
+        "anim": "heart"
+      },
+      {
+        "text": "Try box breathing: breathe in slowly for a count of four.",
+        "search": "breathing outdoors",
+        "anim": "breath"
+      },
+      {
+        "text": "Hold your breath gently for four.",
+        "search": "calm lake",
+        "anim": "breath"
+      },
+      {
+        "text": "Breathe out slowly for four, then hold again for four.",
+        "search": "relaxing",
+        "anim": "breath"
+      },
+      {
+        "text": "Repeat for one to two minutes, keeping your shoulders relaxed.",
+        "search": "yoga sunrise",
+        "anim": "idea"
+      },
+      {
+        "text": "Making your out-breath longer than your in-breath can also help you relax.",
+        "search": "peaceful nature",
+        "anim": "breath"
+      },
+      {
+        "text": "If you feel dizzy, stop and breathe normally.",
+        "search": "sitting calm",
+        "anim": "heart"
+      }
+    ],
+    "tags": [
+      "breathing exercise",
+      "stress relief",
+      "box breathing"
+    ],
+    "sources": [
+      "Harvard Health Publishing: Relaxation techniques: Breath control helps quell errant stress response",
+      "Cleveland Clinic: Box Breathing"
+    ]
+  },
+  {
+    "id": "fun-008-history-timeline",
+    "category": "fun",
+    "title": "History Timelines That Will Break Your Brain",
+    "hook": {
+      "text": "Cleopatra lived closer to the Moon landing than to the building of the Great Pyramid.",
+      "search": "pyramid",
+      "anim": "pyramid"
+    },
+    "points": [
+      {
+        "text": "The Great Pyramid was built around 2560 BC.",
+        "search": "egypt pyramids",
+        "anim": "pyramid"
+      },
+      {
+        "text": "Cleopatra lived around 30 BC, about 2,500 years later.",
+        "search": "ancient egypt statue",
+        "anim": "tablet"
+      },
+      {
+        "text": "The Moon landing was in 1969, about 2,000 years after her.",
+        "search": "moon landing",
+        "anim": "space"
+      },
+      {
+        "text": "Oxford University was already teaching students before the Aztec capital was founded in 1325.",
+        "search": "oxford university",
+        "anim": "book"
+      },
+      {
+        "text": "Woolly mammoths still lived on a remote Arctic island when the pyramids were being built.",
+        "search": "arctic island",
+        "anim": "idea"
+      },
+      {
+        "text": "Nintendo was founded in 1889, and it started by making playing cards.",
+        "search": "playing cards",
+        "anim": "calendar"
+      },
+      {
+        "text": "The fax machine was invented in the 1840s, before the telephone.",
+        "search": "old technology",
+        "anim": "phone"
+      },
+      {
+        "text": "History is a lot more overlapped than school timelines make it look.",
+        "search": "old books library",
+        "anim": "book"
+      }
+    ],
+    "tags": [
+      "history facts",
+      "mind blowing facts",
+      "timeline"
+    ]
+  },
+  {
+    "id": "edu-009-lightning",
+    "category": "education",
+    "title": "How Lightning Actually Works",
+    "hook": {
+      "text": "A bolt of lightning is hotter than the surface of the Sun.",
+      "search": "lightning storm",
+      "anim": "lightning"
+    },
+    "points": [
+      {
+        "text": "Inside storm clouds, ice crystals and soft hail crash into each other.",
+        "search": "storm clouds",
+        "anim": "idea"
+      },
+      {
+        "text": "Those collisions separate electric charges inside the cloud.",
+        "search": "dark clouds",
+        "anim": "lightning"
+      },
+      {
+        "text": "When the charge gets big enough, it jumps as a giant spark: lightning.",
+        "search": "lightning",
+        "anim": "lightning"
+      },
+      {
+        "text": "A bolt can heat the air to around 30,000 degrees Celsius.",
+        "search": "lightning night",
+        "anim": "sunlight"
+      },
+      {
+        "text": "That's about five times hotter than the surface of the Sun.",
+        "search": "sun surface",
+        "anim": "sunlight"
+      },
+      {
+        "text": "The air expands so fast it makes a boom. That's thunder.",
+        "search": "thunderstorm",
+        "anim": "lightning"
+      },
+      {
+        "text": "Count the seconds between flash and thunder, and divide by three, for the distance in kilometers.",
+        "search": "storm over city",
+        "anim": "clock"
+      },
+      {
+        "text": "If you can hear thunder, you're close enough to be struck. Go indoors.",
+        "search": "rain window",
+        "anim": "umbrella"
+      }
+    ],
+    "tags": [
+      "lightning facts",
+      "weather explained",
+      "science"
+    ]
+  },
+  {
+    "id": "hea-009-sugar",
+    "category": "health",
+    "title": "How Much Sugar Is Too Much?",
+    "hook": {
+      "text": "One can of soda can have more sugar than you should eat in a whole day.",
+      "search": "soda can",
+      "anim": "soda"
+    },
+    "points": [
+      {
+        "text": "The World Health Organization says added sugars should be under 10 percent of daily calories.",
+        "search": "sugar cubes",
+        "anim": "globe"
+      },
+      {
+        "text": "It suggests that cutting to under 5 percent brings extra benefits.",
+        "search": "sugar spoon",
+        "anim": "idea"
+      },
+      {
+        "text": "For most adults, 5 percent is about 25 grams, or 6 teaspoons, a day.",
+        "search": "teaspoon",
+        "anim": "soda"
+      },
+      {
+        "text": "A regular 330 ml can of cola has around 35 grams of sugar.",
+        "search": "cola glass",
+        "anim": "soda"
+      },
+      {
+        "text": "Sugar hides in sauces, cereals, flavored yogurts and breads.",
+        "search": "cereal bowl",
+        "anim": "fruit"
+      },
+      {
+        "text": "Check labels for words like syrup, dextrose, sucrose and fructose.",
+        "search": "reading food label",
+        "anim": "book"
+      },
+      {
+        "text": "The sugar naturally found in whole fruit and plain milk doesn't count toward that limit.",
+        "search": "fresh fruit",
+        "anim": "fruit"
+      },
+      {
+        "text": "Swapping one sugary drink a day for water is an easy place to start.",
+        "search": "water with lemon",
+        "anim": "water"
+      }
+    ],
+    "sources": [
+      "WHO guideline: Sugars intake for adults and children"
+    ],
+    "tags": [
+      "sugar intake",
+      "nutrition",
+      "healthy eating"
+    ]
+  },
+  {
+    "id": "fun-009-food-history",
+    "category": "fun",
+    "title": "Food Facts You Won't Believe",
+    "hook": {
+      "text": "Carrots weren't always orange.",
+      "search": "carrots",
+      "anim": "fruit"
+    },
+    "points": [
+      {
+        "text": "Early carrots were mostly purple or yellow.",
+        "search": "purple carrots",
+        "anim": "fruit"
+      },
+      {
+        "text": "Orange carrots became popular thanks to Dutch growers in the 1600s.",
+        "search": "netherlands farm",
+        "anim": "globe"
+      },
+      {
+        "text": "In the 1830s, ketchup was sold in America as a medicine in pill form.",
+        "search": "ketchup",
+        "anim": "idea"
+      },
+      {
+        "text": "Ancient Mesoamericans used cacao beans as money.",
+        "search": "cacao beans",
+        "anim": "book"
+      },
+      {
+        "text": "And chocolate was a bitter drink for centuries before it became a candy bar.",
+        "search": "hot chocolate",
+        "anim": "water"
+      },
+      {
+        "text": "A pineapple can take up to two years to grow, and each plant makes one fruit at a time.",
+        "search": "pineapple",
+        "anim": "fruit"
+      },
+      {
+        "text": "Cashews grow hanging from the bottom of a fruit called the cashew apple.",
+        "search": "cashews",
+        "anim": "fruit"
+      },
+      {
+        "text": "And sliced bread was only sold commercially starting in 1928.",
+        "search": "bread slices",
+        "anim": "calendar"
+      }
+    ],
+    "tags": [
+      "food facts",
+      "food history",
+      "fun facts"
+    ]
+  },
+  {
+    "id": "edu-010-rosetta-stone",
+    "category": "education",
+    "title": "The Stone That Cracked Egyptian Hieroglyphs",
+    "hook": {
+      "text": "For centuries, no one could read Egyptian hieroglyphs. Then one stone changed that.",
+      "search": "hieroglyphs",
+      "anim": "tablet"
+    },
+    "points": [
+      {
+        "text": "In 1799, French soldiers in Egypt found a broken stone slab near the town of Rashid, or Rosetta.",
+        "search": "egypt desert ruins",
+        "anim": "pyramid"
+      },
+      {
+        "text": "It carried a decree from 196 BC, written in three scripts.",
+        "search": "ancient stone",
+        "anim": "calendar"
+      },
+      {
+        "text": "The top was in hieroglyphs, the middle in Demotic, and the bottom in ancient Greek.",
+        "search": "ancient writing",
+        "anim": "tablet"
+      },
+      {
+        "text": "Scholars could already read Greek, so they had a key to the other two.",
+        "search": "old manuscript",
+        "anim": "book"
+      },
+      {
+        "text": "Names of rulers were circled in hieroglyphs, which gave important clues.",
+        "search": "egyptian temple",
+        "anim": "tablet"
+      },
+      {
+        "text": "In 1822, Jean-François Champollion announced he had cracked the code.",
+        "search": "writing with quill",
+        "anim": "idea"
+      },
+      {
+        "text": "His work unlocked thousands of years of Egyptian history.",
+        "search": "egypt temple columns",
+        "anim": "pyramid"
+      },
+      {
+        "text": "Today the Rosetta Stone is one of the most visited objects in the British Museum.",
+        "search": "museum",
+        "anim": "book"
+      }
+    ],
+    "tags": [
+      "rosetta stone",
+      "ancient egypt",
+      "history explained"
+    ]
+  },
+  {
+    "id": "hea-010-sitting",
+    "category": "health",
+    "title": "Sitting All Day? Do This Every Hour",
+    "hook": {
+      "text": "If you sit most of the day, your body needs a reminder to move.",
+      "search": "office desk sitting",
+      "anim": "phone"
+    },
+    "points": [
+      {
+        "text": "Long periods of sitting are linked to higher risks for heart disease and diabetes.",
+        "search": "office work",
+        "anim": "heart"
+      },
+      {
+        "text": "The WHO advises adults to limit sitting and break it up with activity.",
+        "search": "standing desk",
+        "anim": "globe"
+      },
+      {
+        "text": "Try standing up and moving for a few minutes every 30 to 60 minutes.",
+        "search": "stretching at work",
+        "anim": "walk"
+      },
+      {
+        "text": "Take phone calls standing, or walk while you talk.",
+        "search": "walking phone call",
+        "anim": "phone"
+      },
+      {
+        "text": "Use the stairs instead of the elevator when you can.",
+        "search": "stairs",
+        "anim": "walk"
+      },
+      {
+        "text": "Stretch your neck, shoulders and hips to ease stiffness.",
+        "search": "neck stretch",
+        "anim": "dumbbell"
+      },
+      {
+        "text": "Set a timer or a phone reminder until moving becomes a habit.",
+        "search": "phone reminder",
+        "anim": "clock"
+      },
+      {
+        "text": "Small breaks add up across a whole week.",
+        "search": "walking outside",
+        "anim": "walk"
+      }
+    ],
+    "sources": [
+      "WHO: Physical activity fact sheet"
+    ],
+    "tags": [
+      "sitting too long",
+      "desk job health",
+      "move more"
+    ]
+  },
+  {
+    "id": "fun-010-ocean",
+    "category": "fun",
+    "title": "The Ocean Is Stranger Than Space",
+    "hook": {
+      "text": "We have better maps of Mars than of our own ocean floor.",
+      "search": "deep ocean blue",
+      "anim": "fish"
+    },
+    "points": [
+      {
+        "text": "Only about a quarter of the seafloor has been mapped in high detail.",
+        "search": "underwater",
+        "anim": "globe"
+      },
+      {
+        "text": "The deepest point, the Challenger Deep, is about 11 kilometers down.",
+        "search": "deep sea dark",
+        "anim": "fish"
+      },
+      {
+        "text": "If you dropped Mount Everest in there, its peak would still be underwater.",
+        "search": "mount everest",
+        "anim": "idea"
+      },
+      {
+        "text": "Tiny ocean plants called phytoplankton make a large share of the oxygen we breathe.",
+        "search": "plankton",
+        "anim": "fish"
+      },
+      {
+        "text": "A blue whale's heart weighs around 180 kilograms.",
+        "search": "blue whale",
+        "anim": "whale"
+      },
+      {
+        "text": "Some deep-sea creatures make their own light, called bioluminescence.",
+        "search": "jellyfish glowing",
+        "anim": "octopus"
+      },
+      {
+        "text": "The ocean holds about 97 percent of Earth's water.",
+        "search": "ocean horizon",
+        "anim": "water"
+      },
+      {
+        "text": "Scientists think most ocean species haven't even been discovered yet.",
+        "search": "coral reef fish",
+        "anim": "fish"
+      }
+    ],
+    "tags": [
+      "ocean facts",
+      "deep sea",
+      "nature facts"
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "folders": {
+    "scripts": "FactScripts",
+    "music": "Music_Facts",
+    "ready": "Ready_Facts",
+    "uploaded": "Uploaded_Facts",
+    "work": "_work_facts",
+    "cache": "_pexels_cache"
+  },
+  "ffmpeg_path": "ffmpeg",
+  "timezone": "Asia/Riyadh",
+  "style": "cartoon",
+  "pexels_api_key": "",
+  "channel_label": "",
+  "videos_per_run": 3,
+  "target_seconds": 90,
+  "reading_words_per_second": 2.3,
+  "music_volume": 0.7,
+  "encoder_preset": "veryfast",
+  "default_outro": "Follow for 3 new videos every day",
+  "schedule": {
+    "times": [
+      "09:00",
+      "15:00",
+      "20:00"
+    ],
+    "min_lead_hours": 2
+  },
+  "upload": {
+    "enabled": false,
+    "max_uploads_per_run": 6,
+    "category_id": "27",
+    "language": "en",
+    "made_for_kids": false,
+    "contains_synthetic_media": false,
+    "notify_subscribers": true
+  },
+  "hashtags": {
+    "education": [
+      "#learnsomething",
+      "#didyouknow"
+    ],
+    "health": [
+      "#healthtips",
+      "#wellness"
+    ],
+    "fun": [
+      "#funfacts",
+      "#didyouknow"
+    ]
+  },
+  "tags": [
+    "did you know",
+    "facts",
+    "learn something new",
+    "interesting facts"
+  ],
+  "max_hashtags": 5,
+  "comment_prompt": "Which fact surprised you most? Tell us in the comments, and follow for 3 new videos every day."
+}

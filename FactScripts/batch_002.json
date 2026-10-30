@@ -1,0 +1,106 @@
+[
+  {
+    "id": "edu-011-football-history",
+    "category": "education",
+    "title": "Where Did Football Come From?",
+    "hook": {"text": "People have been kicking balls around for more than 2,000 years.", "anim": "football"},
+    "points": [
+      {"text": "In ancient China, a game called cuju had players kick a ball through a net.", "anim": "football"},
+      {"text": "FIFA recognizes cuju as the earliest known form of football.", "anim": "book"},
+      {"text": "In medieval England, whole villages played rough 'mob football' with almost no rules.", "anim": "walk"},
+      {"text": "In 1863, the Football Association was formed in London and wrote the first official rules.", "anim": "book"},
+      {"text": "Those rules split football from rugby: no carrying the ball with your hands.", "anim": "football"},
+      {"text": "FIFA, the world governing body, was founded in Paris in 1904.", "anim": "globe"},
+      {"text": "The first World Cup was held in Uruguay in 1930, and Uruguay won it.", "anim": "calendar"},
+      {"text": "Today football is the most popular sport on Earth, followed by billions of fans.", "anim": "football"}
+    ],
+    "tags": ["football history", "soccer history", "world cup history"]
+  },
+  {
+    "id": "hea-011-baby-sleep",
+    "category": "health",
+    "title": "Safe Sleep Tips Every New Parent Should Know",
+    "hook": {"text": "Newborns sleep up to 17 hours a day. Here's how to keep that sleep safe.", "anim": "baby"},
+    "points": [
+      {"text": "Newborns usually sleep 14 to 17 hours a day, in short stretches.", "anim": "clock"},
+      {"text": "Always place babies on their back to sleep, for naps and at night.", "anim": "sleep"},
+      {"text": "Use a firm, flat mattress with just a fitted sheet.", "anim": "sleep"},
+      {"text": "Keep pillows, blankets, bumpers and soft toys out of the crib.", "anim": "baby"},
+      {"text": "Experts recommend sharing a room, but not the same bed, for at least the first 6 months.", "anim": "heart"},
+      {"text": "Dress the baby in light layers so they don't overheat.", "anim": "sunlight"},
+      {"text": "A smoke-free home also lowers the risk of sleep-related problems.", "anim": "breath"},
+      {"text": "Ask your pediatrician if you have any questions about your baby's sleep.", "anim": "idea"}
+    ],
+    "sources": ["American Academy of Pediatrics: Safe Sleep recommendations", "National Sleep Foundation"],
+    "tags": ["baby sleep", "safe sleep", "new parents"]
+  },
+  {
+    "id": "fun-011-football-facts",
+    "category": "fun",
+    "title": "Football Facts Even Fans Don't Know",
+    "hook": {"text": "A pro footballer runs around 10 kilometers in a single match.", "anim": "football"},
+    "points": [
+      {"text": "Midfielders often run the most, sometimes more than 11 kilometers a game.", "anim": "walk"},
+      {"text": "A match lasts 90 minutes, split into two halves of 45.", "anim": "clock"},
+      {"text": "The penalty spot is 11 meters, or 12 yards, from the goal line.", "anim": "football"},
+      {"text": "Goalkeepers are the only players who can use their hands, and only inside their own box.", "anim": "football"},
+      {"text": "A standard match ball measures about 68 to 70 centimeters around.", "anim": "idea"},
+      {"text": "Pelé is credited with more than 1,000 goals, counting friendly matches.", "anim": "football"},
+      {"text": "During hard sprints, a young player's heart can beat more than 180 times a minute.", "anim": "heart"},
+      {"text": "And yes: in most of the world, 'football' means the game you play with your feet.", "anim": "globe"}
+    ],
+    "tags": ["football facts", "soccer facts", "sports facts"]
+  },
+  {
+    "id": "edu-012-heart",
+    "category": "education",
+    "title": "How Your Heart Works in 90 Seconds",
+    "hook": {"text": "Your heart beats around 100,000 times a day without you ever thinking about it.", "anim": "heart"},
+    "points": [
+      {"text": "Your heart is a muscle about the size of your fist.", "anim": "heart"},
+      {"text": "It has four rooms, called chambers: two upper atria and two lower ventricles.", "anim": "book"},
+      {"text": "The right side pumps blood to your lungs to pick up oxygen.", "anim": "breath"},
+      {"text": "The left side pumps that fresh blood out to the rest of your body.", "anim": "heart"},
+      {"text": "Valves inside work like one-way doors so blood never flows backward.", "anim": "idea"},
+      {"text": "The 'lub-dub' sound you hear is those valves snapping shut.", "anim": "heart"},
+      {"text": "A tiny natural pacemaker sends electrical signals to set the rhythm.", "anim": "lightning"},
+      {"text": "Regular exercise helps keep this amazing muscle strong.", "anim": "dumbbell"}
+    ],
+    "tags": ["how the heart works", "human body", "biology explained"]
+  },
+  {
+    "id": "hea-012-teeth",
+    "category": "health",
+    "title": "Are You Brushing Your Teeth Right?",
+    "hook": {"text": "Many people brush for well under the recommended two minutes.", "anim": "clock"},
+    "points": [
+      {"text": "Dentists recommend brushing twice a day for two minutes each time.", "anim": "clock"},
+      {"text": "Use a toothpaste with fluoride, which helps protect against cavities.", "anim": "germs"},
+      {"text": "Brush gently in small circles. Scrubbing hard can hurt your gums.", "anim": "germs"},
+      {"text": "Don't forget the inside surfaces and your tongue.", "anim": "idea"},
+      {"text": "Clean between your teeth once a day with floss or a small brush.", "anim": "germs"},
+      {"text": "Replace your toothbrush every three to four months, or sooner if the bristles fray.", "anim": "calendar"},
+      {"text": "Sugary drinks and snacks between meals feed the germs that cause cavities.", "anim": "soda"},
+      {"text": "Regular dental checkups catch problems early.", "anim": "heart"}
+    ],
+    "sources": ["American Dental Association"],
+    "tags": ["teeth brushing", "dental health", "oral hygiene"]
+  },
+  {
+    "id": "fun-012-babies",
+    "category": "fun",
+    "title": "Babies Have Secret Superpowers",
+    "hook": {"text": "Babies are born with skills they lose as they grow up.", "anim": "baby"},
+    "points": [
+      {"text": "A newborn has about 300 bones. Many fuse together as they grow.", "anim": "bones"},
+      {"text": "Newborns see best at about 20 to 30 centimeters, roughly the distance to a parent's face.", "anim": "baby"},
+      {"text": "At first they see bold black-and-white patterns better than colors.", "anim": "idea"},
+      {"text": "Put a finger in a newborn's palm and they'll grip it surprisingly tightly.", "anim": "baby"},
+      {"text": "Hold a newborn upright with feet on a surface, and they'll make little stepping movements.", "anim": "walk"},
+      {"text": "Babies' kneecaps start out as soft cartilage and turn to bone over the first few years.", "anim": "bones"},
+      {"text": "Many newborns cry without tears for the first few weeks.", "anim": "water"},
+      {"text": "A newborn's head is about a quarter of its whole body length.", "anim": "baby"}
+    ],
+    "tags": ["baby facts", "newborn facts", "cute facts"]
+  }
+]

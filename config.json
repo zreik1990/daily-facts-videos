@@ -1,0 +1,76 @@
+{
+  "folders": {
+    "raw": "Raw",
+    "music": "Music",
+    "ready": "Ready",
+    "uploaded": "Uploaded",
+    "done": "Done",
+    "work": "_work"
+  },
+  "ffmpeg_path": "ffmpeg",
+  "timezone": "Asia/Riyadh",
+  "settle_minutes": 10,
+
+  "long_video": {
+    "hours": 1,
+    "resolution": "3840x2160",
+    "fps": 30,
+    "max_clips": 12,
+    "max_clip_seconds": 60,
+    "crossfade_seconds": 3,
+    "music_volume": 0.9,
+    "nature_volume": 0.6,
+    "encoder_preset": "veryfast",
+    "crf": 20
+  },
+
+  "shorts": {
+    "per_video": 6,
+    "seconds": 20,
+    "music_volume": 0.8
+  },
+
+  "schedule": {
+    "long_days": ["Mon", "Wed", "Fri"],
+    "long_time": "18:00",
+    "short_time": "13:00",
+    "min_lead_hours": 2
+  },
+
+  "upload": {
+    "enabled": true,
+    "max_uploads_per_run": 6,
+    "category_id": "19",
+    "language": "en",
+    "made_for_kids": false,
+    "contains_synthetic_media": false,
+    "notify_subscribers": true
+  },
+
+  "text": {
+    "channel_name": "Your Channel Name",
+    "uses": ["Sleep", "Relaxation", "Study and Focus", "Stress Relief"],
+    "title_template": "{place} 4K | {duration} of Calm Music for {use}",
+    "short_title_template": "{place} in 4K, pure calm #shorts",
+    "thumbnail_template": "{duration} · {use}",
+    "description_template": [
+      "{duration} of {place} in 4K with calm music for {use_lower}. Leave it playing in the background to relax, sleep, study or unwind.",
+      "",
+      "Filmed and edited by {channel_name}. All footage is our own.",
+      "",
+      "Music:",
+      "{music_credits}",
+      "",
+      "Business and footage licensing: add your email here",
+      "",
+      "{hashtags}"
+    ],
+    "short_description_template": [
+      "{place} in 4K. Full {duration} version on the channel.",
+      "{hashtags}"
+    ],
+    "hashtags": ["#relaxingmusic", "#4knature", "#calm"],
+    "tags": ["relaxing music", "nature 4k", "calming music", "sleep music", "study music",
+             "stress relief", "scenic relaxation", "ambient music", "beautiful nature", "drone 4k"]
+  }
+}

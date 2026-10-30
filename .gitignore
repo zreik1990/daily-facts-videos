@@ -1,0 +1,16 @@
+__pycache__/
+_work*/
+_pexels_cache/
+*.log
+*.mp4
+!Music_Facts/
+Ready*/
+Uploaded*/
+Preview_Facts/
+Done/
+Raw/
+Upload_Today/
+token*.json
+client_secret.json
+state.json
+SCRIPTS_RUNNING_LOW.txt
