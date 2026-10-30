@@ -8,9 +8,12 @@ Constants:
 - GitHub repo: `zreik1990/daily-facts-videos`
 - Metricool brand (blogId): `7763850`, timezone `Asia/Riyadh`
 - Posting times: 09:00 education, 15:00 health, 20:00 fun (Riyadh time)
-- Run date: the task runs about 03:00 Riyadh; `DATE` = today's date in Riyadh (YYYY-MM-DD).
+- The task runs every evening (about 21:40 Riyadh) and prepares the NEXT day's posts.
+  `DATE` = tomorrow's date in Riyadh (YYYY-MM-DD).
 
 ## 1. Get the code
+If this repo is not attached to the session yet, call the `add_repo` tool for
+`zreik1990/daily-facts-videos` with access `push` first.
 ```
 git clone https://github.com/zreik1990/daily-facts-videos.git && cd daily-facts-videos
 pip install --break-system-packages -r requirements.txt
@@ -18,9 +21,9 @@ pip install --break-system-packages -r requirements.txt
 ffmpeg must be installed (`which ffmpeg`; if missing: `apt-get install -y ffmpeg`).
 
 ## 2. Skip if already done
-`DATE` is the day the posts go out. Run at ~03:00 Riyadh, `DATE` = today in Riyadh.
-If `out/DATE/plan.json` exists in the repo, or Metricool `getScheduledPosts` for DATE
-already shows Daily Facts posts, stop and report "already scheduled".
+If `out/DATE/plan.json` already exists (or Metricool `getScheduledPosts` already shows
+posts on DATE), move DATE forward one day; if that day is also done, stop and report
+"already scheduled through DATE".
 
 ## 3. Top up scripts if running low
 Run `python validate_scripts.py`. If fewer than 9 unused scripts remain
@@ -62,7 +65,7 @@ git add facts_state.json FactScripts out/DATE/plan.json
 git commit -m "Daily run DATE"
 git push
 ```
-(Do not commit the .mp4 files; they live on the release.)
+(Do not commit the .mp4 files; they live on the media branch.)
 
 ## 7. Report
 Post a short summary: the 3 titles with times, any failures, and scripts remaining.
