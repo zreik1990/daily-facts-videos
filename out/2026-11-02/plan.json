@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-02",
+  "items": [
+    {
+      "script_id": "edu-002-leap-year",
+      "category": "education",
+      "publish_at": "2026-11-02T09:00:00",
+      "timezone": "Asia/Riyadh",
+      "title": "Why Do Leap Years Exist?",
+      "caption": "Why Do Leap Years Exist? Why does February get an extra day every four years?\n\n1. A year is how long Earth takes to go around the Sun.\n2. That trip takes about 365 days and 6 hours, not exactly 365 days.\n3. Those extra 6 hours add up to about one full day every four years.\n4. So we add February 29th to keep the calendar in step with the seasons.\n5. But the real extra time is slightly less than 6 hours, so even that rule overshoots.\n6. That's why years ending in 00 skip the leap day, unless they divide evenly by 400.\n7. So 2000 was a leap year, but 1900 was not, and 2100 won't be either.\n8. This system comes from the Gregorian calendar, introduced in 1582.\n\nWhich fact surprised you most? Tell us in the comments, and follow for 3 new videos every day.\n\n#leapyearexplained #calendarfacts #february29 #learnsomething #didyouknow",
+      "youtube_tags": [
+        "leap year explained",
+        "calendar facts",
+        "february 29",
+        "did you know",
+        "facts",
+        "learn something new",
+        "interesting facts"
+      ],
+      "youtube_category": "EDUCATION",
+      "video_url": "https://cdn.jsdelivr.net/gh/zreik1990/daily-facts-videos@d5f465e63f86a92fe5a673374b7f3c93303c332b/2026-11-02_1_edu-002-leap-year.mp4",
+      "local_file": "/home/claude/daily-facts-videos/out/2026-11-02/2026-11-02_1_edu-002-leap-year.mp4",
+      "seconds": 87.8
+    },
+    {
+      "script_id": "hea-002-water",
+      "category": "health",
+      "publish_at": "2026-11-02T15:00:00",
+      "timezone": "Asia/Riyadh",
+      "title": "Do You Really Need 8 Glasses of Water a Day?",
+      "caption": "Do you really need 8 glasses of water a day?\n\n1. About 60 percent of your body is water, and you lose some every day.\n2. But there is no single amount that is right for everyone.\n3. How much you need depends on your size, your activity, and the weather.\n4. Food counts too: fruit, vegetables and soups give you a good share of your water.\n5. A simple check: pale yellow urine usually means you're drinking enough.\n6. Thirst, headaches and tiredness can be signs you need more fluids.\n7. You need extra water when you exercise, sweat a lot, or spend time in the heat.\n8. Keeping a water bottle nearby is one of the easiest ways to drink more.\n\nWhich fact surprised you most? Tell us in the comments, and follow for 3 new videos every day.\n\nGeneral information only, not medical advice. Talk to a doctor about your own health.\nSources: CDC: About Water and Healthier Drinks\n\n#hydration #drinkwater #healthtips #wellness",
+      "youtube_tags": [
+        "hydration",
+        "drink water",
+        "health tips",
+        "did you know",
+        "facts",
+        "learn something new",
+        "interesting facts"
+      ],
+      "youtube_category": "HOWTO_STYLE",
+      "video_url": "https://cdn.jsdelivr.net/gh/zreik1990/daily-facts-videos@d5f465e63f86a92fe5a673374b7f3c93303c332b/2026-11-02_2_hea-002-water.mp4",
+      "local_file": "/home/claude/daily-facts-videos/out/2026-11-02/2026-11-02_2_hea-002-water.mp4",
+      "seconds": 87.4
+    },
+    {
+      "script_id": "fun-002-honey",
+      "category": "fun",
+      "publish_at": "2026-11-02T20:00:00",
+      "timezone": "Asia/Riyadh",
+      "title": "Why Honey Almost Never Goes Bad",
+      "caption": "Why Honey Almost Never Goes Bad. Honey can stay good to eat for thousands of years.\n\n1. Archaeologists have found pots of honey in ancient Egyptian tombs.\n2. Honey has very little water, so bacteria can't survive in it.\n3. It is also naturally acidic, which makes it even harder for germs to grow.\n4. Bees add an enzyme that slowly produces tiny amounts of hydrogen peroxide.\n5. If honey turns hard and cloudy, it hasn't spoiled. It has just crystallized.\n6. Warming the jar gently in water turns it back to liquid.\n7. A single worker bee makes only about one twelfth of a teaspoon in its whole life.\n8. Keep the lid on tight, because honey can absorb moisture from the air.\n\nWhich fact surprised you most? Tell us in the comments, and follow for 3 new videos every day.\n\n#honeyfacts #foodfacts #bees #funfacts #didyouknow",
+      "youtube_tags": [
+        "honey facts",
+        "food facts",
+        "bees",
+        "did you know",
+        "facts",
+        "learn something new",
+        "interesting facts"
+      ],
+      "youtube_category": "ENTERTAINMENT",
+      "video_url": "https://cdn.jsdelivr.net/gh/zreik1990/daily-facts-videos@d5f465e63f86a92fe5a673374b7f3c93303c332b/2026-11-02_3_fun-002-honey.mp4",
+      "local_file": "/home/claude/daily-facts-videos/out/2026-11-02/2026-11-02_3_fun-002-honey.mp4",
+      "seconds": 87.0
+    }
+  ],
+  "scripts_remaining": 27
+}

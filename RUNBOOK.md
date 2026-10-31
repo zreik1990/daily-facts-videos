@@ -6,7 +6,7 @@ the Metricool connector. Follow these steps exactly.
 
 Constants:
 - GitHub repo: `zreik1990/daily-facts-videos`
-- Metricool brand (blogId): `7763850`, timezone `Asia/Riyadh`
+- Metricool brand (blogId): `7770414`, timezone `Asia/Riyadh`
 - Posting times: 09:00 education, 15:00 health, 20:00 fun (Riyadh time)
 - The task runs every evening (about 21:40 Riyadh) and prepares the NEXT day's posts.
   `DATE` = tomorrow's date in Riyadh (YYYY-MM-DD).
@@ -48,7 +48,7 @@ has a `video_url` and `seconds` between 60 and 100. Metricool copies the video t
 storage when the post is created, so the media branch only needs today's files.
 
 ## 5. Schedule in Metricool
-For each item in plan.json call `createScheduledPost` with blogId 7763850 and:
+For each item in plan.json call `createScheduledPost` with blogId 7770414 and:
 - `date`: publish_at + "+03:00"; `publicationDate`: {dateTime: publish_at, timezone: "Asia/Riyadh"}
 - `providers`: youtube, instagram, tiktok; `media`: [video_url]; `text`: caption; autoPublish true
 - `youtubeData`: {title, type "short", privacy "public", tags: youtube_tags, category: youtube_category, madeForKids false, isAiGeneratedContent false}

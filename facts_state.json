@@ -5,8 +5,11 @@
     "fun-011-football-facts",
     "edu-001-sky-blue",
     "hea-001-sleep",
-    "fun-001-octopus"
+    "fun-001-octopus",
+    "edu-002-leap-year",
+    "hea-002-water",
+    "fun-002-honey"
   ],
   "last_slot": "2026-10-31T20:00:00+03:00",
-  "last_scheduled_date": "2026-11-01"
+  "last_scheduled_date": "2026-11-02"
 }
