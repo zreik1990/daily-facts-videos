@@ -1,5 +1,7 @@
 # Daily Facts: cloud runbook
 
+> **STOPPED (2026-11-01, by the owner): do not upload or schedule anything about Daily Facts to any social media. Do not run any step below. If this runbook is triggered, stop immediately and report that it is stopped.**
+
 This repo is run once a day by a scheduled Claude task. The task makes 3 animated
 videos and schedules them on YouTube Shorts, Instagram Reels and TikTok through
 the Metricool connector. Follow these steps exactly.
